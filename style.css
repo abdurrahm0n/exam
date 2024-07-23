@@ -1,0 +1,57 @@
+#head{
+    background-color: cornflowerblue;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    border: 10px;
+    border-radius: 15px;
+    border-color: red;
+}
+#span{
+    background-color: yellow;
+}
+#span2{
+    color: red;
+}
+#li1{
+    color: green;
+}
+#li2{
+    color: red;
+}
+#li3{
+    color: yellow;
+}
+#li4{
+    color: green;
+}
+#li5{
+    color: grey;
+}
+th,td{
+    border: 2px solid white;
+    width: 150px;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+table{
+    border-radius: 2px solid white;
+    border-collapse: collapse;
+}
+.red{
+    background-color: red;
+}
+button{
+    background-color: green;
+    width: 150px;
+}
+.green{
+    background-color: green;
+}
+
+.yellow{
+    background-color: yellow;
+    text-align: center;
+    width: 61%;
+}
